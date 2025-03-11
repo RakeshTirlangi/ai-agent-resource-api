@@ -370,6 +370,6 @@ async def root():
 # Main entry point fixed to handle multiprocessing correctly
 
 import uvicorn
-uvicorn.run(app, host="localhost", port=8000)
+uvicorn.run(app, host="0.0.0.0", port=10000)
 
 
