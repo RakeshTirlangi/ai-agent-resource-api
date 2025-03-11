@@ -1,9 +1,7 @@
 fastapi
 uvicorn
 pydantic
-pillow
-python-dotenv
-google-generativeai
+"python-dotenv"
 crewai
 crewai-tools
-litellm
+
